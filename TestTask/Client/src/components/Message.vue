@@ -11,11 +11,6 @@
         </v-form>
       </v-card-text>
       <v-card-actions></v-card-actions>
-      <v-alert
-        :value="true"
-        :style="alertText==''?'display:none':'display: flex'"
-        :type="alert"
-      >{{alertText}}</v-alert>
     </v-card>
   </div>
 </template>
