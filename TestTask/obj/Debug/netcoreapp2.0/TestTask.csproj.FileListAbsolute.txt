@@ -1,0 +1,11 @@
+C:\Users\Mystical\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.deps.json
+C:\Users\Mystical\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.runtimeconfig.json
+C:\Users\Mystical\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.runtimeconfig.dev.json
+C:\Users\Mystical\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.dll
+C:\Users\Mystical\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.pdb
+C:\Users\Mystical\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.csprojResolveAssemblyReference.cache
+C:\Users\Mystical\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Mystical\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\Mystical\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.AssemblyInfo.cs
+C:\Users\Mystical\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.dll
+C:\Users\Mystical\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.pdb
